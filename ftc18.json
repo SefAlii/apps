@@ -29,7 +29,7 @@
     "trending_apps_enable" : "true",
     "no_trending_apps" : "6",
     "trend_app_title_1" : "FaceTime",
-    "trend_app_package_1" : "www.google.com",
+    "trend_app_package_1" : "https://www.google.com",
     "trend_app_image_1" : "https://play-lh.googleusercontent.com/2LkO_vkgXA8GzT2iCo2YMdhQQujPYA3QzIsIwT3OJdq8cXMCoyFy6-JjgTnJ6n49nZ1e=s180",
     "trend_app_title_2" : "Fall Gays",
     "trend_app_package_2" : "com.fallguysadvice.appfallguys.distapp",
