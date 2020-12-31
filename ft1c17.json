@@ -26,7 +26,7 @@
     "updatePACKAGENAME" : "com.faceti.meadvice.ftimedevtix",
     "updateDIRECTLINK" : "false",
     "force_update": "false",
-    "trending_apps_enable" : "true",
+    "trending_apps_enable" : "false",
     "no_trending_apps" : "6",
     "trend_app_title_1" : "FaceTime",
     "trend_app_package_1" : "com.faceti.meadvice.ftimedevtix",
