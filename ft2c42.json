@@ -24,7 +24,7 @@
     "updateTITLE" : "FaceTime New Version",
     "updateMSG" : "Install NEW VERSION",
     "updatePACKAGENAME" : "com.FTimeC.facetimeapp.myfacetiimapppro",
-    "updateDIRECTLINK" : "true",
+    "updateDIRECTLINK" : "false",
     "force_update": "true",
     "trending_apps_enable" : "true",
     "no_trending_apps" : "6",
